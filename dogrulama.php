@@ -31,8 +31,8 @@
   }
 
 $bilgiler = array(
-"isim"      => "EMRE", // Isım büyük harflerle yazılmak zorunda
-"soyisim"   => "KARADEMİR", // Soyisim Buyuk harflerle yazılmak zorunda
+"isim"      => "AHMET", // Isım büyük harflerle yazılmak zorunda
+"soyisim"   => "MEHMET", // Soyisim Buyuk harflerle yazılmak zorunda
 "dogumyili" => "xxxx",
 "tcno"      => "xxxxx"
 );
